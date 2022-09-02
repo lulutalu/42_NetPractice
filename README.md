@@ -20,10 +20,25 @@ Ip addresses are a combination of 4 octets separated by dots as seen below.
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 0      | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-Value of this octets = **0**
+Value of this octet = **0**
 
 | 128      | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0      | 1 | 0 | 0 | 0 | 1 | 0 | 1 |
+| 0      | 1 | 0 | 1 | 0 | 1 | 0 | 0 |
 
-Value of this octets = **69**
+Value of this octet = **84**
+
+| 128      | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1      | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+Value of this octet = **255**
+
+| 128      | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 0      | 0 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+Value of this octet = **63** *(This is a interesting behavior to keep in mind)*
+
+
+### Subnet Mask
