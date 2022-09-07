@@ -42,3 +42,11 @@ Value of this octet = **63** *(This is a interesting behavior to keep in mind)*
 
 
 ### Subnet Mask
+
+Now, we need to understand how to assign IP addresses for computers inside of a Network.
+
+To be able to differentiate between the Network number and the Hosts number we'll use subnetting and IP's masks.
+
+All IP addresses possess a Mask. The syntax for a Mask is the same as for the IP address (4 octets seperated by dots).
+
+The mask can also be written in CIDR example below.
