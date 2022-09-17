@@ -5,6 +5,10 @@ Learning how to configurate network of small size.<br />
 For this, I'll need to learn how TCP/IP protocol works.
 ## Results
 
+<p align="center">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2668aqb008909jp0ecnecpa/project/2790456" alt="lduboulo's 42 NetPractice Score" /></a>
+</p>
+
 ---
 ## Theory
 
